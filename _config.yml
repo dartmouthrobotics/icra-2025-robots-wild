@@ -1,0 +1,7 @@
+theme: jekyll-theme-cayman
+title: "Robots in the Wild"
+tagline: "@ICRA 2025"
+github:
+  is_project_page: false
+kramdown:
+  auto_ids: true
