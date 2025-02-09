@@ -5,7 +5,7 @@ title: Overview
 
 Welcome to the ICRA 2025 Workshop **Robots in the Wild**.
 
-![ICRA 2025](img/ICRA-ALT-logo.png)
+![ICRA 2025](https://github.com/dartmouthrobotics/icra-2025-robots-wild/blob/main/img/ICRA-ATL-logo.png)
 
 ## Abstract
 
