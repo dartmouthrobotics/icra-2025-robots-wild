@@ -17,7 +17,7 @@ We welcome contributions and work in progress related to robots in the wild, inc
 - hardware designs and optimization tailored to tasks in unstructured conditions
 - cross-domain sensor fusion and autonomous tasks
 - learning-based approaches and applications for robots in the wild
-- experimental practices, **including both successes and ``failures''**
+- experimental practices, **including both successes and "failures"**
 
 
 ## Important dates
