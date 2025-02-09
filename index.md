@@ -5,6 +5,8 @@ title: Overview
 
 Welcome to the ICRA 2025 Workshop **Robots in the Wild**.
 
+![raw ICRA 2025](https://raw.githubusercontent.com/dartmouthrobotics/icra-2025-robots-wild/refs/heads/main/img/ICRA-ATL-logo.png)
+
 ## Abstract
 
 In the field, we throw **robots into the wild** to achieve what seems a simple task, that quickly ends up being arduous. As experts, we continuously loop through inferring, developing, deploying, and analyzing our autonomous systems until it meets some level of success. From marine to forestry, from mining to agriculture, no matter the various applications, field robotics is an ambitious area of work. The standards of success are rising, given the advancements in robot designs and algorithmic frameworks, but so too are new challenges arising, limiting the advancement of field robotics.
