@@ -19,4 +19,4 @@ We invite interested authors to submit a 2-8 pages paper, in English, as PDF in 
 
 A video (up to 10 MB) can be added to supplement your paper. Videos are not mandatory. Rather it’s an opportunity to augment one’s paper to visibly showcase results. MPG, MPEG or MP4 video formats can be used.
 
-All submissions will go through a single-blind review process. Authors of accepted papers are expected to present a poster at the workshop. A number of papers will be selected for a 10-15 minute spotlight talk - oral presentation. All accepted papers will be available in the workshop Website.
+All submissions will go through a single-blind review process. Authors of accepted papers are expected to present a poster at the workshop. A number of papers will be selected for a 10-15 minute spotlight talk - oral presentation. All accepted papers will be available in the workshop website.

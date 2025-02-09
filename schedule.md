@@ -3,14 +3,13 @@ layout: default
 title: Schedule
 ---
 
-This full-day workshop is proposed to be held on May 19th, 2025.
+This full-day workshop is on May [19th or 23rd], 2025.
 
 Tentative Schedule:
 
 | ([Eastern Daylight Time EDT--UTC/GMT-4](https://www.timeanddate.com/time/zones/edt)) | Topic |
 |:-------------|:------------------|
 | 9:00 -- 9:15 | Welcome and Workshop Overview |  
-<!-- [](speakers#id) -  {{ site.data.speakers[0].topic }} | -->
 | 9:15 -- 9:45 | Invited speaker 1 |  
 | 9:45 -- 10:15 | Invited speaker 2 |
 | 10:15 -- 10:45 | [Spotlight talks](contributed-talks) |
