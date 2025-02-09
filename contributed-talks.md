@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Lightning talks from accepted contributed papers
+title: Spotlight talks from accepted contributed papers
 ---
 
 The first column indicates the time, where "xx" indicates the hour in the respective time zone.
@@ -13,4 +13,3 @@ The first column indicates the time, where "xx" indicates the hour in the respec
   </tr>
 {% endfor %}
 </table>
-
