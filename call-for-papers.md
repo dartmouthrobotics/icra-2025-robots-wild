@@ -3,6 +3,21 @@ layout: default
 title: Call for papers
 ---
 
+Sharing ideas and knowledge is necessary for the state-of-the-art field robotics to expand. Through this workshop, we aim to provide attendees a supportive environment where they have ample opportunities to receive feedback on their current projects or build new ideas and collaborations for upcoming research studies.
+
+We welcome contributions and work in progress related to robots in the wild, including, but not limited to:
+
+- localization and mapping in challenging domains
+- robust autonomy in outdoor environments
+- perception and situational awareness in unstructured environments
+- planning and navigation in complex environments
+- control and maneuverability in harsh conditions
+- dataset for unprecedented conditions and environments
+- multi-robot system and coordination in outdoor environments
+- hardware designs and optimization tailored to tasks in unstructured conditions
+- cross-domain sensor fusion and autonomous tasks
+- learning-based approaches and applications for robots in the wild
+- experimental practices, **including both successes and ``failures''**
 
 
 ## Important dates
