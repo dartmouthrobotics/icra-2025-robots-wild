@@ -26,4 +26,4 @@ Accordingly, the shared perspectives from the various subdomains will foster the
 | Camera-ready paper   |   Apr 30th, 2025 (11:59pm AoE)     |
 | Workshop   |   May 19th, 2025 (full-day)      |
 
-**Submission Link: To Be Setup. ** [Microsoft CMT3]([https://cmt3.research.microsoft.com/ICRARW2025](https://cmt3.research.microsoft.com/ICRAROBOTSWILD2025)) 
+**Submission Link:** [Microsoft CMT3](https://cmt3.research.microsoft.com/ICRAROBOTSWILD2025) 
