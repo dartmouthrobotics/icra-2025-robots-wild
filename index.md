@@ -24,6 +24,6 @@ Accordingly, the shared perspectives from the various subdomains will foster the
 |:-------------|:------------------|
 | Notification of Acceptance | Apr 15th, 2025 (rolling basis) |
 | Camera-ready paper   |   Apr 30th, 2025 (11:59pm AoE)     |
-| Workshop   |   May [19th], 2025 (full-day)      |
+| Workshop   |   May 19th, 2025 (full-day)      |
 
 **Submission Link: To Be Setup. ** [Microsoft CMT3]([https://cmt3.research.microsoft.com/ICRARW2025](https://cmt3.research.microsoft.com/ICRAROBOTSWILD2025)) 
