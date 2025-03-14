@@ -28,7 +28,7 @@ We welcome contributions and work in progress related to robots in the wild, inc
 | Camera-ready paper   |   Apr 30th, 2025 (11:59pm AoE)     |
 | Workshop   |   May 19th, 2025 (full-day)      |
 
-**Submission Link: To Be Setup. ** [Microsoft CMT3]([https://cmt3.research.microsoft.com/ICRARW2025](https://cmt3.research.microsoft.com/ICRARW2025](https://cmt3.research.microsoft.com/ICRAROBOTSWILD2025))
+**Submission Link:** [Microsoft CMT3]([https://cmt3.research.microsoft.com/ICRARW2025](https://cmt3.research.microsoft.com/ICRARW2025](https://cmt3.research.microsoft.com/ICRAROBOTSWILD2025))
 
 We invite interested authors to submit a 2-8 pages paper, in English, as PDF in the standard ICRA IEEE conference format (templates [LaTeX](http://ras.papercept.net/conferences/support/tex.php) or [Microsoft Word](http://ras.papercept.net/conferences/support/word.php)). We encourage contributions of research papers describing early research on emerging topics and early results. Note that these contributions are not archival.
 
