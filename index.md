@@ -20,10 +20,10 @@ Accordingly, the shared perspectives from the various subdomains will foster the
 
 ## Important dates
 
-| Workshop paper submission deadline | April 1st, 2025 (11:59pm AoE) |
+| Workshop paper submission deadline | April 15th, 2025 (11:59pm AoE) |
 |:-------------|:------------------|
-| Notification of Acceptance | Apr 15th, 2025 (rolling basis) |
-| Camera-ready paper   |   Apr 30th, 2025 (11:59pm AoE)     |
+| Notification of Acceptance | Apr 30th, 2025 (rolling basis) |
+| Camera-ready paper   |   May 6th, 2025 (11:59pm AoE)     |
 | Workshop   |   May 19th, 2025 (full-day)      |
 
 **Submission Link:** [Microsoft CMT3](https://cmt3.research.microsoft.com/ICRAROBOTSWILD2025) 
