@@ -35,4 +35,7 @@
   site: "https://rpm.snu.ac.kr/"
   institution: "Seoul National University, South Korea"
   pic_url: "https://rpm.snu.ac.kr/img/people/akim2018.jpg"
-  topic: "Construction Site Monitoring"
+  topic: "Uncharted Autonomy: Achieving Sustainable Autonomy for Unstructured Environments"
+  abstract: "In this talk, we present novel sensing, calibration, and SLAM techniques to enhance autonomous navigation in challenging settings. First, we introduce a robust method for maritime radar scans that significantly reduces odometry errors, addressing challenges like low resolution and sparse features in open waters. Next, we introduce a conic-based camera calibration technique using moments to maintain accuracy despite distortions, enabling reliable calibration at a sub-pixel level. Lastly, the talk presents a new dataset covering heterogeneous radar sensors for robust sensing in the wild. These innovations collectively pave the way for sustainable autonomy in unstructured environments."
+  bio: "Ayoung Kim works as an associate professor in the department of mechanical engineering at Seoul National University since 2021 Sep. Before joining SNU, she was at the civil and environmental engineering, Korea Advanced Institute of Science and Technology (KAIST) from 2014 to 2021. She has B.S. and M.S. degrees in mechanical engineering from SNU in 2005 and 2007, and an M.S. degree in electrical engineering and a Ph.D. degree in mechanical engineering from the University of Michigan (UM), Ann Arbor, in 2011 and 2012. She also worked as a post-doctoral researcher in naval architecture and marine engineering, at U of M in 2013 before she worked at Electronics and Telecommunications Research Institute (ETRI) as a senior researcher."
+
