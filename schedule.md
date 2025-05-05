@@ -14,7 +14,7 @@ Tentative Schedule:
 | 9:30 -- 10:00 | Invited speaker 2 |
 | 10:00 -- 10:45 | [Spotlight talks](spotlight-talks) |
 | 10:45 -- 11:25 | Coffee break and poster session |
-| 11:25 -- 11:55  | Invited speaker 3 |
+| 11:25 -- 11:55  | Invited speaker: Prof. Ayoung Kim |
 | 11:55 -- 12:25  | Invited speaker 4 |
 | 12:25 -- 13:40 | Lunch |
 | 13:40 -- 14:10  | Invited speaker 5 |
