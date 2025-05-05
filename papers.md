@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Spotlight talks from accepted contributed papers
+title: Accepted contributed papers
 ---
 
 <table style="width:100%">
