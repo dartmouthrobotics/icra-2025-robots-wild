@@ -16,5 +16,5 @@
   title: "Drift-free Visual SLAM using Digital Twins"
 - id: "8"
   time: "10:30--10:45"
-  authors: "Jing Liang, Amirreza Payandeh, Daeun Song, Xuesu Xiao, Dinesh Manocha"
+  authors: "Jing Liang*, Amirreza Payandeh, Daeun Song, Xuesu Xiao, Dinesh Manocha"
   title: "DTG: Mapless Global Navigation with Diffusion-based Trajectory Generation"
