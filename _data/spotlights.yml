@@ -7,5 +7,5 @@
 #   abstract: ""
 #   bio: ""
 - id: "4"
-  name: "Alessandro Saviolo, Niko Picello, Jeffrey Mao, Rishabh Verma, and Giuseppe Loianno"
-  topic: "Reactive Collision Avoidance for Safe Agile Navigation"
+  authors: "Alessandro Saviolo, Niko Picello, Jeffrey Mao, Rishabh Verma, and Giuseppe Loianno"
+  title: "Reactive Collision Avoidance for Safe Agile Navigation"
