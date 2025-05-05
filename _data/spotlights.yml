@@ -7,5 +7,6 @@
 #   abstract: ""
 #   bio: ""
 - id: "4"
+  time: "10:00--10:15"
   authors: "Alessandro Saviolo, Niko Picello, Jeffrey Mao, Rishabh Verma, and Giuseppe Loianno"
   title: "Reactive Collision Avoidance for Safe Agile Navigation"
