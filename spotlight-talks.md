@@ -5,7 +5,7 @@ title: Spotlight talks from accepted contributed papers
 
 ([Eastern Daylight Time EDT--UTC/GMT-4](https://www.timeanddate.com/time/zones/edt))
 
-Morning Spotlight Talks
+<h3 id="am">Morning Spotlight Talks</h3>
 
 <table style="width:100%">
 {% for paper in site.data.spotlights_am %}
@@ -17,7 +17,7 @@ Morning Spotlight Talks
 {% endfor %}
 </table>
 
-Afternoon Spotlight Talks
+<h3 id="pm">Afternoon Spotlight Talks</h3>
 
 <table style="width:100%">
 {% for paper in site.data.spotlights_pm %}
