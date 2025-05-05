@@ -22,7 +22,7 @@ Afternoon Spotlight Talks
 {% for paper in site.data.spotlights_pm %}
   <tr>
     <!-- <th>14:{{ forloop.index | minus: 1 | times: 15 | plus: 25 | modulo: 60 | prepend: '00' | slice: -2, 2 }}--14:{{ forloop.index | times: 15 | plus: 25 | modulo: 60 | prepend: '00' | slice: -2, 2 }} </th> -->
-    <th>{ % paper.time % }</th>
+    <th>{{ paper.time }}</th>
     <th>{% include spotlight-talks.html authors=paper.authors title=paper.title id=paper.id %}</th>
   </tr>
 {% endfor %}
