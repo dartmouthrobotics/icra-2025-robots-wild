@@ -5,112 +5,84 @@
 - id: "2"
   authors: "Miguel Castillón*, Hilario Tomé"
   title: "KeyNav: Robust multi-modal quadruped state estimation for automated industrial inspection"
-  morning: true
 - id: "3"
   authors: "Luca Morando*, Sanket A. Salunkhe, Nishanth Bobbili, Jeffrey Mao, Luca Masci, Cristino de Souza, Hung Nguyen, Giuseppe Loianno"
   title: "Trajectory Planning and Control for Differentially Flat Fixed-Wing Aerial Systems"
-  morning: true
 - id: "4"
   authors: "Alessandro Saviolo*, Niko Picello, Jeffrey Mao, Rishabh Verma, and Giuseppe Loianno"
   title: "Reactive Collision Avoidance for Safe Agile Navigation"
-  morning: true
 - id: "5"
   authors: "Roxane Merat, Giovanni Cioffi, Leonard Bauersfeld*, Davide Scaramuzza"
   title: "Drift-free Visual SLAM using Digital Twins"
-  morning: true
 - id: "6"
   authors: "Jaimie Carlson*"
   title: "Flatland Revisited: The Effect of Non-Planar Floors on Large-Scale Deployment of Autonomous Mobile Warehouse Robots"
-  morning: true
 - id: "7"
   authors: "Zeren Luo, Erdong Xiao*, Peng Lu"
   title: "FT-Net: Learning Failure Recovery and Fault-tolerant Locomotion For Quadruped Robots"
-  morning: true
 - id: "8"
   authors: "Jing Liang*, Amirreza Payandeh, Daeun Song, Xuesu Xiao, Dinesh Manocha"
   title: "DTG: Mapless Global Navigation with Diffusion-based Trajectory Generation"
-  morning: true
 - id: "9"
   authors: "Siddhant Haldar*, Lerrel Pinto"
   title: "Point Policy: Unifying Observations and Actions with Key Points for Robot Manipulation"
-  morning: true
 - id: "10"
   authors: "Sreejani Chatterjee*, Abhinav Gandhi, Berk Calli, Constantinos Chamzas"
   title: "Image-Based Roadmaps for Vision-Only Planning and Control of Robotic Manipulators"
-  morning: true
 - id: "11"
   authors: "Shuo Wen*, Edwin Meriaux, Mariana Sosa-Guzmán, Charlotte Morissette, Chuqiao Si, Bobak Hamed-Baghi, Gregory Dudek" 
   title: "Scalable Aerial GNSS Localization for Marine Robots"
-  morning: true
 - id: "12"
   authors: "Alexander Popov, Alperen Degirmenci, David Wehr, Shashank Hegde, Ryan Oldja, Alexey Kamenev, Bertrand Douillard, David Nistér, Urs Muller, Ruchi Bhargava, Stan Birchfield, Nikolai Smolyanskiy*"
   title: "Mitigating Covariate Shift in Imitation Learning for Autonomous Vehicles Using Latent Space Generative World Modelsn"
-  morning: false
 - id: "13"
   authors: "Dohyun Kim*, Jayden Dongwoo Lee, Hyochoong Bang, Jungho Bae" 
   title: "Reinforcement Learning-based Fault-Tolerant Control for Quadrotor with Online Transformer Adaptation"
-  morning: false
 - id: "14"
   authors: "Andrew Zhang*"
   title: "OpenManip: A Comprehensive Benchmark for Rigid and Articulated 6-DoF Manipulation"
-  morning: true
 - id: "15"
   authors: "Sherry Li, Runxiang Jin, Rui Liu*"
   title: "A Review on Swarm Resilience Enhancement: Methods and Applications"
-  morning: true
 - id: "16"
   authors: "Zhexin Xu*, Nikolas Sanderson, David Rosen"
   title: "Simplifying Certifiable Estimation: A Factor Graph Optimization Approach"
-  morning: true
 - id: "17"
   authors: "Colin Usher*, Yu Hang He, Kamala Krishnan, Isaac Dale, Sidney Wise, Wayne Daley, Olga Kemenova" 
   title: "Leveraging Animal Behavior as Part of a Robot Plan"
-  morning: true
 - id: "18"
   authors: "Ebasa Temesgen*, Greta Brown, Haifeng Huang, Jack Swanberg, Sree Ganesh Lalitaditya Divakarla, Maria Gini"
   title: "Hierarchical Reinforcement Learning for Deer Detection and Deterrence"
-  morning: false
 - id: "19"
   authors: "Shehryar Khattak*, Timon Homberger, Lukas Bernreiter, Julian Nubert, Olov Andersson, Roland Siegwart, Kostas Alexis, Marco Hutter"
   title: "CompSLAM: Complementary Hierarchical Multi-Modal Localization and Mapping for Robot Autonomy in Underground Environments"
-  morning: false
 - id: "20"
   authors: "Frederik Markus*, Amaar Quaadri, Arvind Car, Brandon Lucia, Zachary Manchester"
   title: "Vision‑Driven Autonomous Spacecraft Navigation"
-  morning: false
 - id: "21"
   authors: "Pigar Biteng, Tameem Zaman, Qi Lu*"
   title: "Training Robot Swarms for Adaptive Foraging in Environments with Obstacles"
-  morning: false
 - id: "22"
   authors: "Arturo Gonzalez, Artemisa Trevino, Qi Lu*"
   title: "Congestion Mitigation for Foraging Robot Swarms Using Adaptive Spiral Path Strategies"
-  morning: false
 - id: "23"
   authors: "Mario Jerez*, Khoi Duong, Jack Swanberg, Horoom Bula, Ebasa Temesgen, Maria Gini" 
   title: "UAV Coverage Path Planning for Autonomous Deer Detection in the Wild Driven by Ant Colony Optimization"
-  morning: false
 - id: "24"
   authors: "Rodney Staggers Jr*, Bharath Vedantha Desikan, Jnaeshwar Das" 
   title: "Low-Cost Autonomous Surface Vessel for Spatio-Temporal Monitoring of Aquatic Environments"
-  morning: false
 - id: "25"
   authors: "Duy Nguyen*, Nhat Minh Dinh Le, Nhan Huu Nguyen, Pham Duy Hung, Van Anh Ho, Trung Dung Ngo" 
   title: "From Collective Object Transportation to Embodied Coordination: Distributed Cascade Force Control with Minimal Information for Soft-Tactile Multi-Robot Pushing"
-  morning: false
 - id: "26"
   authors: Chinmay Ravindra Amrutkar*, Anushka Gangadhar Satav, Rodney Staggers Jr, Jnaneshwar Das"
   title: "Towards Robotic Trash Removal with Autonomous Surface Vessels"
-  morning: false
 - id: "27"
   authors: "Alice Oxford*, Tomonari Furukawa"
   title: "Incorporating Visual Non-Detection Information in Cooperative Localization of an ROV in a Low-Visibility Lake Environment"
-  morning: false
 - id: "28"
   authors: "Francesco Cancelliere*, Simone Palazzo, Dario Guastella, Giuseppe Sutera, Giovanni Muscato, Concetto Spampinato"
   title: "Ground robot navigation in dense forests with 3D LiDAR using Reinforcement Learning"
-  morning: false
 - id: "29"
   authors: "Julius Quell*, Wolfgang Stürzl, Marcus Müller, Rudolph Triebel"
   title: "Bringing Visual(-inertial) Odometries to the Limits: In Search of Robust and Accurate State Estimation for Micro Aerial Vehicles in Challenging Mars-Analog Environments"
-  morning: false
