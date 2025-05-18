@@ -13,13 +13,13 @@ Tentative Schedule:
 | 9:00 -- 9:30 | [Invited speaker](speakers#baxevani): Dr. Kleio Baxevani |  
 | 9:30 -- 10:00 | [Invited speaker](speakers#jiang): Prof. Yu Jiang |
 | 10:00 -- 10:45 | [Spotlight talks](spotlight-talks#am) |
-| 10:45 -- 11:25 | Coffee break and poster session |
+| 10:45 -- 11:25 | Coffee break and [morning poster session](papers#am) |
 | 11:25 -- 11:55  | [Invited speaker](speakers#kim): Prof. Ayoung Kim |
 | 11:55 -- 12:25  | [Invited speaker](speakers#tadokoro): Prof. Satoshi Tadokoro |
 | 12:25 -- 13:40 | Lunch |
 | 13:40 -- 14:10  | [Invited speaker](speakers#alexis): Prof. Kostas Alexis |
 | 14:10 -- 14:40  | [Invited speaker](speakers#kottege): Dr. Navinda Kottege |
 | 14:40 -- 15:25 | [Spotlight talks](spotlight-talks#pm) |
-| 15:25 -- 16:05 | Coffee break and poster session |
+| 15:25 -- 16:05 | Coffee break and [afternoon poster session](papers#pm) |
 | 16:05 -- 16:45 | [Panel](speakers#panel) |
 | Final discussion/concluding remarks | 16:45 -- 17:00  |
