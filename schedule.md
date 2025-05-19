@@ -22,4 +22,4 @@ Tentative Schedule:
 | 14:40 -- 15:25 | [Spotlight talks](spotlight-talks#pm) |
 | 15:25 -- 16:05 | Coffee break and [afternoon poster session](papers#pm) |
 | 16:05 -- 16:35 | [Invited speaker](speakers#meghjani): Prof. Malika Meghjani |
-| Final discussion/concluding remarks | 16:35 -- 17:00  |
+| Award announcement/Final discussion/concluding remarks | 16:35 -- 17:00  |
