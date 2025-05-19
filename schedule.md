@@ -3,7 +3,7 @@ layout: default
 title: Schedule
 ---
 
-This full-day workshop is on May 19th, 2025.
+This full-day workshop is on May 19th, 2025, **Meeting Room 411**.
 
 Tentative Schedule:
 
